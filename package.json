@@ -1,0 +1,26 @@
+{
+  "name": "sust",
+  "version": "1.0.0",
+  "description": "Simple Universal Storage Thingy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavideBecker/sust.git"
+  },
+  "keywords": [
+    "Store",
+    "Storage",
+    "State",
+    "Persistent",
+    "LocalStorage"
+  ],
+  "author": "Davide Becker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DavideBecker/sust/issues"
+  },
+  "homepage": "https://github.com/DavideBecker/sust#readme"
+}
