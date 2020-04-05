@@ -1,6 +1,6 @@
 {
   "name": "sust",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple Universal Storage Thingy",
   "main": "index.js",
   "scripts": {
